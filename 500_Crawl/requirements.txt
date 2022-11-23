@@ -1,0 +1,4 @@
+investpy
+pendulum
+beautifulsoup4
+tqdm
